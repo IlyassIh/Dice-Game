@@ -83,4 +83,9 @@
         margin-top: 10px;
         margin-bottom: 40px;
     }
+
+    .card h3 {
+        font-size: 25px;
+    }
+    
 }
